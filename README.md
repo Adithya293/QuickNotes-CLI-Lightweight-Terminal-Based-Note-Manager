@@ -11,7 +11,7 @@ It is lightweight, requires no external libraries, and stores notes in a plain t
 - **Persistent Storage** – Notes are saved to `quicknotes.txt` for later use.
 
 ## Requirements
-- Python 3.x (No additional libraries needed)
+- Python 3.13.6
 
 ## Installation & Usage
 
