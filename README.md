@@ -1,0 +1,1 @@
+# QuickNotes-CLI-Lightweight-Terminal-Based-Note-Manager
